@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-3p34po.shadowdiary.com/sitemap.xml
